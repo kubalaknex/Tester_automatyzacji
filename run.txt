@@ -1,0 +1,10 @@
+1. Zainstalować Python (dla systemu Windows jest dostępna wersja w Microsoft Store, dla pozostałych systemów należy wejść na stronę https://www.python.org)
+2. Dodatkowo należy zainstalować moduł pip-requests
+	2.1 W celu instalacji pip-requests należy uruchomić wiersz poleceń i wprowadzić polecenie "pip install requests"
+	2.2 Moduły json oraz time są modułami wbudowanymi w Python
+3. Otworzenie/Utworzenie projektu z kodem programu należy:
+	3.1 Otworzyć kompilator (w moim przypadku IDLE(Python 3.10)
+	3.2 W zakładce "File" wybrać opcje "New File" lub "Open..." w zależności czy dany projekt istnieje
+	3.3* Jeżeli utworzony został nowy plik to należy przekleić cały kod który został dołączony
+4. Ostatnim krokiem jest "Run">"Run Module" lub nacisnąć przycisk "F5"
+4.1* Możliwe jest szybkie uruchomienie programu. Jeżeli plik został wcześniej utworzony wystarczy dwukrotnie kliknąć na ikonę.
